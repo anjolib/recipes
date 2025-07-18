@@ -1,0 +1,4 @@
+#+title: recipes
+#+author: anjo
+
+repository of recipes written in [[https://cooklang.org/][cooklang]].
